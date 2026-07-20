@@ -7,8 +7,8 @@ def sum_of_two_numbers():
     while True:
         try:
             # Get user input
-            num1 = float(input("\nEnter first number: "))
-            num2 = float(input("Enter second number: "))
+            num1 = float(input("\nEnter first number1: "))
+            num2 = float(input("Enter second number2: "))
             
             # Calculate sum
             result = num1 + num2
